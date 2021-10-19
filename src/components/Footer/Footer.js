@@ -11,15 +11,15 @@ const Footer = () => {
 
                 <div className="footer-left">
 
-                    <h3>Royal <span>Diagnostic</span></h3>
+                    <h3>Commonal <span>Hospital</span></h3>
 
                     <p className="footer-links">
                         <Link to="/home">Home</Link>
                         <Link to="/services">Services</Link>
-                        <Link to="/equipment">Equipment</Link>
+                        <Link to="/equipment">Instruments</Link>
                         <Link to="/about">About</Link>
                     </p>
-                    <p className="footer-company-name">Company Name © 2015</p>
+                    <p className="footer-company-name">Commonal Hospital © 2015</p>
                 </div>
                 <div className="footer-center">
                     <div >

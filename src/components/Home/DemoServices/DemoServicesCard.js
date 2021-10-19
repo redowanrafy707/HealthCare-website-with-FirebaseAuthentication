@@ -14,7 +14,7 @@ const DemoServicesCard = (props) => {
                 <Card.Img variant="top" src={img} className="w-100 mx-auto p-2" height="300px" />
                 <Card.Body >
                     <Card.Title>{title}</Card.Title>
-                    <Button variant="primary" onClick={() => handleCardDetails(id)}>See Details
+                    <Button variant="info" onClick={() => handleCardDetails(id)}>See Details
                 </Button>
                 </Card.Body>
                 

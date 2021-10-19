@@ -11,16 +11,13 @@ const Testimonials = () => {
 
                 <div className=" col-sm-12 col-lg-6 mb-4">
                     <Card className="card-hover">
-                        <Card.Header className="quote">Quote</Card.Header>
+                        <Card.Header className="quote">Well Satisfied</Card.Header>
                         <Card.Body>
                             <blockquote className="blockquote mb-0">
-                                <p>
-                                     
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere
-                                    erat a ante. 
+                                <p>Very good treatment and care taking team of Dr. Firuza Parikh and all doctors of the 
                                 </p>
                                 <footer className="blockquote-footer">
-                                    Someone famous in <cite title="Source Title">Source Title</cite>
+                                    Kiran Harchandani <cite title="Source Title"></cite>
                                 </footer>
                             </blockquote>
                         </Card.Body>
@@ -31,13 +28,10 @@ const Testimonials = () => {
                         <Card.Header className="quote">The amazing clinic! Wonderful Support!</Card.Header>
                         <Card.Body>
                             <blockquote className="blockquote mb-0">
-                                <p>
-                                    {' '}
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere
-                                    erat a ante.{' '}
+                                <p>loving. God bless you all. Special thanks to the doctors for their effort and hard work. 
                                 </p>
                                 <footer className="blockquote-footer">
-                                    Someone famous in <cite title="Source Title">Source Title</cite>
+                                Anahita Bengali <cite title="Source Title"></cite>
                                 </footer>
                             </blockquote>
                         </Card.Body>
@@ -45,16 +39,14 @@ const Testimonials = () => {
                 </div>
                 <div className=" col-sm-12 col-lg-6 mb-4">
                     <Card className="card-hover">
-                        <Card.Header className="quote">Quote</Card.Header>
+                        <Card.Header className="quote">Praisworthy</Card.Header>
                         <Card.Body>
                             <blockquote className="blockquote mb-0">
                                 <p>
-                                    {' '}
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere
-                                    erat a ante.{' '}
+                                What a wonderful experience! I can’t thank enough the Jaslok staff from a every senior d
                                 </p>
                                 <footer className="blockquote-footer">
-                                    Someone famous in <cite title="Source Title">Source Title</cite>
+                                Mantasha Sahil <cite title="Source Title"></cite>
                                 </footer>
                             </blockquote>
                         </Card.Body>
@@ -68,7 +60,7 @@ const Testimonials = () => {
                                 <p>They have got my project on tiompetition witd, and experienced & professional team.
                                 </p>
                                 <footer className="blockquote-footer">
-                                    Someone famous in <cite title="Source Title">Source Title</cite>
+                                    Redowan Rafy <cite title="Source Title"></cite>
                                 </footer>
                             </blockquote>
                         </Card.Body>
