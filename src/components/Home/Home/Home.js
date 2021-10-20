@@ -16,8 +16,8 @@ const Home = () => {
                     <Carousel.Item interval={1000}>
                         <img
                             className="d-block w-100"
-                            src="https://img.freepik.com/free-vector/detailed-illustration-doctors-nurses_52683-60322.jpg?size=338&ext=jpg"
-                            alt="First slide" width="1350" height="600"
+                            src="https://image.freepik.com/free-vector/flat-hand-drawn-hospital-reception-scene_52683-54613.jpg"
+                            alt="First slide" width="50%" 
 
                         />
                         {/* <Carousel.Caption>
@@ -28,8 +28,8 @@ const Home = () => {
                     <Carousel.Item interval={500}>
                         <img
                             className="d-block w-100"
-                            src="https://image.freepik.com/free-vector/hand-drawn-doctors-nurses-pack_52683-60136.jpg"
-                            alt="Second slide" width="1350" height="600"
+                            src="https://image.freepik.com/free-vector/people-walking-sitting-hospital-building-city-clinic-glass-exterior-flat-vector-illustration-medical-help-emergency-architecture-healthcare-concept_74855-10130.jpg"
+                            alt="Second slide" width="50%"
                         />
                         {/* <Carousel.Caption>
                             <h3>Second slide label</h3>
@@ -40,7 +40,7 @@ const Home = () => {
                         <img
                             className="d-block w-100"
                             src="https://image.freepik.com/free-vector/flat-hand-drawn-patient-taking-medical-examination_52683-57828.jpg"
-                            alt="Third slide" width="1350" height="600"
+                            alt="Third slide" width="50%"
                         />
                         {/* <Carousel.Caption>
                             <h3>Third slide label</h3>
@@ -55,7 +55,7 @@ const Home = () => {
             <MedInfo></MedInfo>
             <h1 className="fs-2 fw-900 mb-5">All Our Specialized Services</h1>
             <DemoServices></DemoServices>
-             <Link  to="/services"><Button variant="outline-info" className=" m-3 p-1 mt-5 rounded-pill">Services </Button></Link>
+             <Link  to="/services"><Button variant="outline-info" className=" m-3 p-1 mt-5 rounded-pill"> Our More Services </Button></Link>
             
             <Testimonials></Testimonials>
             

@@ -9,9 +9,9 @@ const DemoServicesCard = (props) => {
         history.push(`/services/${id}`)
     }
     return (
-        <div><Col>
+        <div><Col className="mb-3 ">
             <Card>
-                <Card.Img variant="top" src={img} className="w-100 mx-auto p-2" height="300px" />
+                <Card.Img variant="top" src={img} className="w-100 mx-auto p-2 mb-3" height="300px" />
                 <Card.Body >
                     <Card.Title>{title}</Card.Title>
                     <Button variant="info" onClick={() => handleCardDetails(id)}>See Details

@@ -21,12 +21,12 @@ const MedInfo = () => {
                 </div>
                 <div className="col-sm-12 col-md-6 col-lg-3">
                     <FontAwesomeIcon className="icon" icon={faMedkit} size='3x' />
-                    <h4>Emergrncy Help</h4>
+                    <h4>Emergency Help</h4>
                     <p>A global medical journal covering pre-hospital, hospital emergency medicine.</p>
                 </div>
                 <div className="col-sm-12 col-md-6 col-lg-3">
                     <FontAwesomeIcon className="icon" icon={faAmbulance} size='3x' />
-                    <h4>Emergrncy Help</h4>
+                    <h4>Emergency Help</h4>
                     <p>Emergency Medicine Journal is an international peer review journal covering pre-hospital.</p>
                 </div>
             </div>
